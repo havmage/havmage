@@ -45,13 +45,13 @@ We focus on creating robots that automate everyday tasks, integrate with multipl
 ### 📫 Contact Havmågen
 
 <div display="flex">
-  <a href="https://www.linkedin.com/company/havmagen/">
+  <a href="https://www.linkedin.com/company/havmage/">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hello@havmagen.com">
+  <a href="mailto:hello@havmage.com">
     <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/havmagen">
+  <a href="https://instagram.com/havmage">
     <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
