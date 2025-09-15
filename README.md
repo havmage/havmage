@@ -40,7 +40,7 @@ We focus on creating robots that automate everyday tasks, integrate with multipl
 
 ![Havmåge GitHub stats](https://github-readme-stats.vercel.app/api?username=havmage&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)
 
-[![Havmåge Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=havmage&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)](https://github.com/havmagen)
+[![Havmåge Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=havmage&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)](https://github.com/havmage)
 
 ### 📫 Contact Havmågen
 
