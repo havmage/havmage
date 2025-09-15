@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🕊️ **Havmågen**
+# 🕊️ **Havmåge**
 ### _Robotic Software Solutions_
 
 ![Free](https://img.shields.io/badge/Free-Yes-FF0000?style=for-the-badge&logoColor=white)
@@ -14,7 +14,7 @@
 ---
 
 ## 🌍 About Havmågen
-**Havmågen** is a **software company based in Copenhagen, Denmark**, specializing in the **design and development of practical robotic software solutions**.  
+**Havmåge** is a **software company based in Copenhagen, Denmark**, specializing in the **design and development of practical robotic software solutions**.  
 We focus on creating robots that automate everyday tasks, integrate with multiple services, and enhance the productivity of teams and organizations.
 
 🚀 Our mission:
@@ -38,9 +38,9 @@ We focus on creating robots that automate everyday tasks, integrate with multipl
 
 ## 📊 Infographic
 
-![Havmågen GitHub stats](https://github-readme-stats.vercel.app/api?username=havmagen&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)
+![Havmåge GitHub stats](https://github-readme-stats.vercel.app/api?username=havmagen&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)
 
-[![Havmågen Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=havmagen&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)](https://github.com/havmagen)
+[![Havmåge Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=havmagen&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=FFFFFF&title_color=FF0000&text_color=000000&icon_color=FF0000)](https://github.com/havmagen)
 
 ### 📫 Contact Havmågen
 
